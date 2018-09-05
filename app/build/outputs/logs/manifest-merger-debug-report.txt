@@ -1,0 +1,261 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:1:1-40:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c00b45ef3c28a158eef35ed66f61cf4d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/e7688e9d4e54e41185a5da45692d5c00/AndroidManifest.xml:17:1-22:12
+MERGED from [pub.devrel:easypermissions:1.3.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/1bafcffa243525dc5f65d6f7b1375572/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f75f49db24bc01b12ea72c376f47a470/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-drive:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-drive-15.0.1.aar/c3db7d7f60dd1fbc7b448a4f3730a3e3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/7f80183f5d0f323d42deb7eae5d5615f/AndroidManifest.xml:17:1-39:12
+MERGED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:2:1-35:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/4dbd954ca727bb654749720d238e4cf2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.1.0.aar/c522fcdcf22621fc021fa13606f4e1bb/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b37302c0953532a4328329edd95d06d5/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/8bcc1469cb4c9bb26f72671ac7865857/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/62c4897420c94fd01b354678d5439e00/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/67626dfbb5ab4f5075d2d74ec0ed411c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8b1c2d1cb7895a287291895a84ba7a8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a0ed09d39dbc37f4620e3e85b2553787/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a44da2399fe85ca8a496b8ba8561e516/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6146e8df0fad998887203aa3dde0e68f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9c3099695c0a14e31add965cae3a38d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0141a1b70e3d3033a650851b5947f6c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/87ceed07ef101ab0260960232e2a4aaa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c0ee190bd72e28247b6b9f3670957125/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/18da76cfbc6da00f376e7f06712ab261/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a578f7fba7bf2ba3ee81f81962d3d02b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/26a08099c62b0c620bd4e509efbd341f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8e7693b29d9114b5ea4d0cc2fe324732/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7b3ae4cb545923ca92a2fa3a90f693a2/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:1:1-40:12
+INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:1:1-40:12
+	package
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:2:5-40
+		INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:1:1-40:12
+		INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:6:5-80
+MERGED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:12:5-80
+MERGED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:11:5-81
+MERGED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:9:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c00b45ef3c28a158eef35ed66f61cf4d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c00b45ef3c28a158eef35ed66f61cf4d/AndroidManifest.xml:9:5-20
+MERGED from [pub.devrel:easypermissions:1.3.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/1bafcffa243525dc5f65d6f7b1375572/AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:1.3.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/1bafcffa243525dc5f65d6f7b1375572/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-drive:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-drive-15.0.1.aar/c3db7d7f60dd1fbc7b448a4f3730a3e3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-drive-15.0.1.aar/c3db7d7f60dd1fbc7b448a4f3730a3e3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:16.0.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/7f80183f5d0f323d42deb7eae5d5615f/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/7f80183f5d0f323d42deb7eae5d5615f/AndroidManifest.xml:22:5-37:19
+MERGED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:14:5-33:19
+MERGED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:14:5-33:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b37302c0953532a4328329edd95d06d5/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b37302c0953532a4328329edd95d06d5/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/8bcc1469cb4c9bb26f72671ac7865857/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/8bcc1469cb4c9bb26f72671ac7865857/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/62c4897420c94fd01b354678d5439e00/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/62c4897420c94fd01b354678d5439e00/AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:10:9-42
+meta-data#com.google.android.gms.version
+ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/62c4897420c94fd01b354678d5439e00/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/62c4897420c94fd01b354678d5439e00/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:17:13-58
+activity#com.tejadroid.googledrive.MainActivity
+ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:24:27-74
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:28:9-36:20
+	android:grantUriPermissions
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:32:13-47
+	android:authorities
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:30:13-48
+	android:exported
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:29:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:33:13-35:54
+	android:resource
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:35:17-51
+	android:name
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml:34:17-67
+uses-sdk
+INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c00b45ef3c28a158eef35ed66f61cf4d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c00b45ef3c28a158eef35ed66f61cf4d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/e7688e9d4e54e41185a5da45692d5c00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/e7688e9d4e54e41185a5da45692d5c00/AndroidManifest.xml:20:5-44
+MERGED from [pub.devrel:easypermissions:1.3.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/1bafcffa243525dc5f65d6f7b1375572/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.3.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/1bafcffa243525dc5f65d6f7b1375572/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f75f49db24bc01b12ea72c376f47a470/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f75f49db24bc01b12ea72c376f47a470/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-drive-15.0.1.aar/c3db7d7f60dd1fbc7b448a4f3730a3e3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-drive-15.0.1.aar/c3db7d7f60dd1fbc7b448a4f3730a3e3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/7f80183f5d0f323d42deb7eae5d5615f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/7f80183f5d0f323d42deb7eae5d5615f/AndroidManifest.xml:20:5-44
+MERGED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/4dbd954ca727bb654749720d238e4cf2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/4dbd954ca727bb654749720d238e4cf2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.1.0.aar/c522fcdcf22621fc021fa13606f4e1bb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.1.0.aar/c522fcdcf22621fc021fa13606f4e1bb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b37302c0953532a4328329edd95d06d5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b37302c0953532a4328329edd95d06d5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/8bcc1469cb4c9bb26f72671ac7865857/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/8bcc1469cb4c9bb26f72671ac7865857/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/62c4897420c94fd01b354678d5439e00/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/62c4897420c94fd01b354678d5439e00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/67626dfbb5ab4f5075d2d74ec0ed411c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/67626dfbb5ab4f5075d2d74ec0ed411c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8b1c2d1cb7895a287291895a84ba7a8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8b1c2d1cb7895a287291895a84ba7a8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a0ed09d39dbc37f4620e3e85b2553787/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a0ed09d39dbc37f4620e3e85b2553787/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a44da2399fe85ca8a496b8ba8561e516/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/a44da2399fe85ca8a496b8ba8561e516/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6146e8df0fad998887203aa3dde0e68f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6146e8df0fad998887203aa3dde0e68f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9c3099695c0a14e31add965cae3a38d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9c3099695c0a14e31add965cae3a38d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0141a1b70e3d3033a650851b5947f6c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0141a1b70e3d3033a650851b5947f6c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/87ceed07ef101ab0260960232e2a4aaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/87ceed07ef101ab0260960232e2a4aaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c0ee190bd72e28247b6b9f3670957125/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c0ee190bd72e28247b6b9f3670957125/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/18da76cfbc6da00f376e7f06712ab261/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/18da76cfbc6da00f376e7f06712ab261/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a578f7fba7bf2ba3ee81f81962d3d02b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a578f7fba7bf2ba3ee81f81962d3d02b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/26a08099c62b0c620bd4e509efbd341f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/26a08099c62b0c620bd4e509efbd341f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8e7693b29d9114b5ea4d0cc2fe324732/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8e7693b29d9114b5ea4d0cc2fe324732/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7b3ae4cb545923ca92a2fa3a90f693a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7b3ae4cb545923ca92a2fa3a90f693a2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/src/main/AndroidManifest.xml
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:1.3.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/1bafcffa243525dc5f65d6f7b1375572/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:1.3.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/1bafcffa243525dc5f65d6f7b1375572/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:1.3.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/1bafcffa243525dc5f65d6f7b1375572/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:1.3.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/1bafcffa243525dc5f65d6f7b1375572/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:1.3.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/easypermissions-1.3.0.aar/1bafcffa243525dc5f65d6f7b1375572/AndroidManifest.xml:13:13-86
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/7f80183f5d0f323d42deb7eae5d5615f/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/7f80183f5d0f323d42deb7eae5d5615f/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/7f80183f5d0f323d42deb7eae5d5615f/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/7f80183f5d0f323d42deb7eae5d5615f/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/7f80183f5d0f323d42deb7eae5d5615f/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/7f80183f5d0f323d42deb7eae5d5615f/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/7f80183f5d0f323d42deb7eae5d5615f/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/7f80183f5d0f323d42deb7eae5d5615f/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.0] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.0.aar/7f80183f5d0f323d42deb7eae5d5615f/AndroidManifest.xml:34:13-89
+activity#droidninja.filepicker.FilePickerActivity
+ADDED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:17:9-19:62
+	android:configChanges
+		ADDED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:18:13-68
+activity#droidninja.filepicker.MediaDetailsActivity
+ADDED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:20:9-22:62
+	android:configChanges
+		ADDED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:22:13-59
+	android:name
+		ADDED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:21:13-70
+provider#droidninja.filepicker.utils.FilePickerProvider
+ADDED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:24:9-32:20
+	android:grantUriPermissions
+		ADDED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:28:13-47
+	android:authorities
+		ADDED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:26:13-82
+	android:exported
+		ADDED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.droidninja:filepicker:2.1.5] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/AndroidManifest.xml:25:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b37302c0953532a4328329edd95d06d5/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b37302c0953532a4328329edd95d06d5/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b37302c0953532a4328329edd95d06d5/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b37302c0953532a4328329edd95d06d5/AndroidManifest.xml:24:13-79

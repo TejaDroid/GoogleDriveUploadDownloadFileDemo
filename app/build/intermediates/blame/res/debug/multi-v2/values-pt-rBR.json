@@ -1,0 +1,94 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "/Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,169,225,279,334,399,476,516,560,630,673,761,830,872,995,1037,1104,1180,1222,1264",
+                        "endColumns": "57,55,55,53,54,64,76,39,43,69,42,87,68,41,122,41,66,75,41,41,42",
+                        "endOffsets": "108,164,220,274,329,394,471,511,555,625,668,756,825,867,990,1032,1099,1175,1217,1259,1302"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,44,45,46,47,48,49,50,51,52,54,55,57,58,59",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1904,1962,2018,2074,2128,2183,2248,5076,5116,5160,5230,5273,5361,5430,5472,5595,5722,5789,5966,6008,6050",
+                        "endColumns": "57,55,55,53,54,64,76,39,43,69,42,87,68,41,122,41,66,75,41,41,42",
+                        "endOffsets": "1957,2013,2069,2123,2178,2243,2320,5111,5155,5225,5268,5356,5425,5467,5590,5632,5784,5860,6003,6045,6088"
+                    }
+                },
+                {
+                    "source": "/Users/Tejas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f75f49db24bc01b12ea72c376f47a470/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,1904",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,1984"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,53",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,5637",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,5717"
+                    }
+                },
+                {
+                    "source": "/Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/62c4897420c94fd01b354678d5439e00/res/values-pt-rBR/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "3495",
+                        "endColumns": "203",
+                        "endOffsets": "3694"
+                    }
+                },
+                {
+                    "source": "/Users/Tejas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/18da76cfbc6da00f376e7f06712ab261/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "56",
+                        "startColumns": "4",
+                        "startOffsets": "5865",
+                        "endColumns": "100",
+                        "endOffsets": "5961"
+                    }
+                },
+                {
+                    "source": "/Users/Tejas/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b37302c0953532a4328329edd95d06d5/res/values-pt-rBR/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "249,352,532,657,763,989,1117,1265,1395,1624,1730,1925,2053,2269,2452,2547,2639",
+                        "endColumns": "102,179,124,105,225,127,147,129,228,105,194,127,215,182,94,91,108",
+                        "endOffsets": "351,531,656,762,988,1116,1264,1394,1623,1729,1924,2052,2268,2451,2546,2638,2747"
+                    },
+                    "to": {
+                        "startLines": "26,27,28,29,30,31,32,33,35,36,37,38,39,40,41,42,43",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2325,2432,2612,2741,2851,3077,3209,3361,3699,3928,4038,4233,4365,4581,4768,4867,4963",
+                        "endColumns": "106,179,128,109,225,131,151,133,228,109,194,131,215,186,98,95,112",
+                        "endOffsets": "2427,2607,2736,2846,3072,3204,3356,3490,3923,4033,4228,4360,4576,4763,4862,4958,5071"
+                    }
+                }
+            ]
+        }
+    ]
+}

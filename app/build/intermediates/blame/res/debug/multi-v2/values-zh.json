@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Tejas/Documents/LibraryApp/DriveAndroidApiDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/Tejas/.gradle/caches/transforms-1/files-1.1/filepicker-2.1.5.aar/505a885b0b0cb464442c0a809a9ebcc2/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,146,211,288,324,368,438,494,543,585,656,698,747,798,840",
+                        "endColumns": "46,43,64,76,35,43,69,55,48,41,70,41,48,50,41,42",
+                        "endOffsets": "97,141,206,283,319,363,433,489,538,580,651,693,742,793,835,878"
+                    }
+                }
+            ]
+        }
+    ]
+}
